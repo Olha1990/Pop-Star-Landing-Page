@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+}
+
+h1 {
+  text-align: center;
+  font-size: 46px;
+}
+
+img {
+  margin: 0 auto;
+  max-width: 300px;
+  border-radius: 4px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+.read-more {
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  text-align: center;
+  margin: 60px 0;
+}
