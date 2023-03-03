@@ -19,8 +19,9 @@ p {
 }
 
 .read-more {
+  font-size: 20px;
   text-decoration: none;
-  color: black;
+  color: #596e79;
 }
 
 footer {
