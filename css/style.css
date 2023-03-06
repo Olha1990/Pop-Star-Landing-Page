@@ -87,3 +87,18 @@ a {
   color: pink;
   transition: all 100ms ease-in-out;
 }
+
+footer .social-links i {
+  margin: 0 20px;
+  color: var(--branding-color);
+  background: lightpink;
+  padding: 10px 10px;
+  border-radius: 50%;
+  font-size: 18px;
+  transition: all 100ms ease-in-out;
+}
+
+footer .social-links i:hover {
+  color: pink;
+  background: var(--branding-color);
+}
