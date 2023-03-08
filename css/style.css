@@ -2,7 +2,7 @@
   --branding-color: #6c63ff;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
-  --secondary-color: #f9f7fe;
+  --secondary-color: #70cfdc;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -89,7 +89,7 @@ a {
 }
 
 footer .social-links i {
-  margin: 0 20px;
+  margin: 30px 20px;
   color: var(--branding-color);
   background: lightpink;
   padding: 10px 10px;
