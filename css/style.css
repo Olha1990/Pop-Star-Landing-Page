@@ -178,6 +178,11 @@ footer .social-links i:hover {
     padding: 0;
   }
 
+  .container {
+    text-align: center;
+    padding: 0;
+  }
+
   .email-link {
     font-size: 18px;
   }
