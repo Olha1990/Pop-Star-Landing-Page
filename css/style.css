@@ -145,7 +145,7 @@ footer .social-links i:hover {
   background: var(--branding-color);
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
   .column {
     flex: 50%;
     max-width: 50%;
