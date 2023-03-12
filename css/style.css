@@ -150,4 +150,13 @@ footer .social-links i:hover {
     flex: 50%;
     max-width: 50%;
   }
+
+  .nav {
+    padding: 5px 0;
+  }
+
+  .iframe {
+    width: 360px;
+    height: 290px;
+  }
 }
