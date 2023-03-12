@@ -145,18 +145,67 @@ footer .social-links i:hover {
   background: var(--branding-color);
 }
 
-@media screen and (max-width: 600px) {
+@media (max-width: 900px) {
   .column {
     flex: 50%;
     max-width: 50%;
   }
 
-  .nav {
-    padding: 5px 0;
+  .navigation-links a {
+    margin: 20px;
+    border-radius: 4px;
+    padding: 10px 5px;
+    text-decoration: none;
+    text-transform: capitalize;
   }
 
   .iframe {
     width: 320px;
     height: 290px;
+  }
+
+  h1 {
+    font-size: 44px;
+    line-height: 56px;
+  }
+
+  h2 {
+    font-size: 44px;
+  }
+
+  h3 {
+    font-size: 26px;
+  }
+
+  .content {
+    text-align: center;
+    padding: 0;
+  }
+
+  .email-link {
+    font-size: 18px;
+  }
+
+  .primary-link {
+    display: block;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .img-fluid {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    max-width: 40%;
+    margin: auto;
+  }
+
+  .project-desciption {
+    padding: 0;
+    text-align: center;
+  }
+
+  footer .contact-box {
+    padding: 30px;
   }
 }
