@@ -159,13 +159,13 @@ footer .social-links i:hover {
     text-transform: capitalize;
   }
 
-  .iframe {
+  iframe {
     width: 320px;
     height: 290px;
   }
 
   h1 {
-    font-size: 40px;
+    font-size: 38px;
     line-height: 56px;
   }
 
